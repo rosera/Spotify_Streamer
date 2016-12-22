@@ -13,4 +13,5 @@
     <string name="spotify_streamer_artist_image">Artist Image</string>
     <string name="spotify_streamer_artist_track">New Text</string>
     <string name="spotify_streamer_artist_album" />
+    <string name="title_activity_media">MediaActivity</string>
 </resources>
